@@ -1,4 +1,4 @@
-# construction_spending_forecast
+# Forecasting total spending on commercial construction
 Predicted the total spending on commercial construction every month over a span of 3 years. Every month a lot of money is spent on commercial constructions by government and private companies in area. Due to uncertainty of construction costs some of the projects are delayed or left in between until further funds are arranged. It helps in the management of cash flow and funds. Depending on the cost estimation the design can also be modified fitting the requirements.
 Compared the predicted accuracy of ARIMA Model, Holt-Winters Seasonal Model and Time Series Linear Regression Model.
 
